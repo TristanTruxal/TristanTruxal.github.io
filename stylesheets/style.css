@@ -259,10 +259,10 @@ ion-icon {
 
 @keyframes spin {
   0% {
-    content: "Go";
+    content: "c++";
   }
   10% {
-    content: "Terraform";
+    content: "C#";
   }
   20% {
     content: "Java";
@@ -271,24 +271,12 @@ ion-icon {
     content: "Python";
   }
   40% {
-    content: "Node";
+    content: "html";
   }
   50% {
     content: "JavaScript";
   }
   60% {
-    content: "PHP";
-  }
-  70% {
-    content: "VB.Net";
-  }
-  80% {
-    content: "React";
-  }
-  90% {
-    content: "C++";
-  }
-  100% {
-    content: "Bash";
+    content: "bash";
   }
 }
